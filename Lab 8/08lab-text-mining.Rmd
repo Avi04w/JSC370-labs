@@ -10,6 +10,8 @@ output:
 knitr::opts_chunk$set(eval = F, include  = T)
 ```
 
+[GitHub Repository: JSC370-Lab08](https://github.com/Avi04w/JSC370-labs/blob/master/Lab%208/08lab-text-mining.md)
+
 # Learning goals
 
 - Use `unnest_tokens()` and `unnest_ngrams()` to extract tokens and ngrams from text
