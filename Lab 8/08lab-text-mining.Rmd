@@ -1,16 +1,16 @@
 ---
 title: "Lab 08 - Text Mining/NLP"
 output:
+  html_document: default
   github_document:
     df_print: paged
-  html_document: default
 ---
 
 ```{r setup, echo=FALSE}
-knitr::opts_chunk$set(eval = F, include  = T)
+knitr::opts_chunk$set(eval = T, include  = T)
 ```
 
-[GitHub Repository: JSC370-Lab08](https://github.com/Avi04w/JSC370-labs/blob/master/Lab%208/08lab-text-mining.md)
+[GitHub Repository: JSC370-Lab08](https://github.com/Avi04w/JSC370-labs/tree/master/Lab%208)
 
 # Learning goals
 
