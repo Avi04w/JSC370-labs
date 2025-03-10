@@ -1,8 +1,9 @@
 ---
 title: "Lab 9 - HPC"
 output: 
-html_document: default
-link-citations: yes
+  github_document:
+    df_print: paged
+  html_document: default
 ---
 
 ```{r setup, echo=FALSE}
